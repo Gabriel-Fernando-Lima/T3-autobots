@@ -297,6 +297,7 @@ Recebe no corpo uma instância de Venda com o 'id' da venda a ser removida.
 
 
 📋 Modelos de Requisição (Exemplos de JSON)
+
 POST /usuario/cadastro
 
 Cadastra um novo usuario.
